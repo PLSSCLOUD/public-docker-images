@@ -8,5 +8,6 @@ RUN chmod +x /usr/local/bin/install-php-extensions && sync && install-php-extens
 gettext \
 gmp \
 gd \
+ldap \
 pdo_mysql \
 sockets \
